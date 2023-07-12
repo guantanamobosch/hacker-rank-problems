@@ -23,3 +23,10 @@
 
 //     return score;
 // }
+
+// 🤌🏼 A Very Big Sum
+// function aVeryBigSum(arr) {
+//     // Write your code here
+//     const sum = arr.reduce((sum, num) => sum + num, 0);
+//     return sum;
+// }
