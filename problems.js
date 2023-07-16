@@ -128,7 +128,7 @@
 //     console.log(zeroesRatio);
 // }
 
-// 🤌🏼
+// 🤌🏼 Staircase
 // function staircase(n) {
 //     // hash counter
 //     let hash = 1;
