@@ -147,3 +147,23 @@
 //         hash += 1;
 //     }
 // }
+
+// 🤌🏼 Mini Max Sum
+// function miniMaxSum(arr) {
+//     arr.sort(function (a, b) {
+//         return a - b;
+//     });
+
+//     const maxArr = arr.slice(1);
+//     const minArr = arr.slice(0, arr.length - 1);
+
+//     const maxSum = maxArr.reduce(
+//         (accumulator, currentValue) => accumulator + currentValue
+//     );
+
+//     const minSum = minArr.reduce(
+//         (accumulator, currentValue) => accumulator + currentValue
+//     );
+
+//     console.log(`${minSum} ${maxSum}`);
+// }
